@@ -37,6 +37,9 @@ This model outlines a simple todo list application with nested tasks.
 -   **`Todo`**: Represents a main todo item, which has `content`, a `complete` status, a reference to its creator (`User`), and an array of `subTodos`.
 -   **`SubTodo`**: Represents a sub-task within a main todo. It contains `content`, a `complete` status, and a reference to its creator (`User`).
 
+-    <img width="3840" height="2160" alt="image" src="https://github.com/user-attachments/assets/a2e62140-33e0-4421-af6f-4b7967fcf2b9" />
+
+
 ## Technologies Used
 
 -   **Node.js**: JavaScript runtime environment.
