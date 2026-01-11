@@ -1,5 +1,4 @@
 # Mongoose Data Modelling Examples
-[![Ask DeepWiki](https://devin.ai/assets/askdeepwiki.png)](https://deepwiki.com/vishesh1111/Data-Modelling)
 
 This repository provides a collection of practical data models using Mongoose, the Object Data Modeling (ODM) library for MongoDB. It serves as a reference for structuring and defining schemas for various real-world application domains.
 
