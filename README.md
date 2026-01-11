@@ -37,7 +37,11 @@ This model outlines a simple todo list application with nested tasks.
 -   **`Todo`**: Represents a main todo item, which has `content`, a `complete` status, a reference to its creator (`User`), and an array of `subTodos`.
 -   **`SubTodo`**: Represents a sub-task within a main todo. It contains `content`, a `complete` status, and a reference to its creator (`User`).
 
--    <img width="3840" height="2160" alt="image" src="https://github.com/user-attachments/assets/a2e62140-33e0-4421-af6f-4b7967fcf2b9" />
+-<img width="3450" height="944" alt="image" src="https://github.com/user-attachments/assets/4bbd1ad2-66ae-44ae-9aba-08fce6e389d3" />
+<img width="3432" height="770" alt="image" src="https://github.com/user-attachments/assets/6ef2d99e-0766-41fa-be6f-4c044b5b7733" />
+<img width="3428" height="1130" alt="image" src="https://github.com/user-attachments/assets/0e2c9853-eae7-42ab-9136-220bf3b46dbc" />
+
+
 
 
 ## Technologies Used
